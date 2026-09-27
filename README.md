@@ -1,4 +1,3 @@
-```markdown
 # Trabalho Prático 1: Perceptron e KNN em Prática
 
 Repositório dedicado à entrega da Atividade Prática Individual (AT1) de Aprendizagem de Máquina, desenvolvida em **Jupyter Notebook (`at1_am.ipynb`)** utilizando a biblioteca **NumPy** para operações vetorizadas.
@@ -37,11 +36,8 @@ O notebook está dividido em seções claras correspondentes aos três desafios 
    ```bash
    source .venv/bin/activate
    uv pip install numpy matplotlib jupyter ipykernel
-
-```
+   ```
 
 3. Abra o arquivo `at1_am.ipynb`.
 4. Selecione o kernel do Python associado ao ambiente virtual (`.venv`).
 5. Execute todas as células em ordem (`Restart Kernel and Run All Cells`).
-
-```
